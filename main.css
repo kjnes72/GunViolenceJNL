@@ -1,0 +1,66 @@
+body{
+	background-color: #FAF9F6;
+	font-family: "Arial", sans-serif;
+	margin-left: auto;
+	margin-right: auto;	
+}
+
+#assign_header {
+	background-color: darkred;
+	color: white;
+	padding-top: 12px;
+	padding-bottom: 12px;
+}
+
+#assign_header h4 {
+	font-size: 24px;
+}
+
+h5{
+	padding-bottom: 30px;
+}
+
+.col{
+	font-size: 18px;
+}
+
+.col-lg-9{
+	padding-top: 10px;
+}
+
+.col-lg-12{
+	padding-left: auto;
+	padding-right:auto;
+}
+
+.caption {
+	font-size: 14px;
+	color: gray;
+	margin-top: 8px
+}
+
+.row{
+	background-color: whitesmoke;
+}
+
+img{
+	width: 100%;
+}
+
+.photo{
+	max-width: 800px;
+	padding-bottom: 15px;
+}
+
+#datawrapper-vis-ABWAF{
+	padding-bottom: 15px;
+}
+
+.pagefooter{
+	color: white;
+	background-color: darkred;
+	width:100%;
+}
+
+
+
